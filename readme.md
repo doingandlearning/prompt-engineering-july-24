@@ -6,7 +6,7 @@
   - https://kevincunningham.co.uk
 - Repo link: https://github.com/doingandlearning/prompt-engineering-july-24
 - Miro link: https://miro.com/app/board/uXjVKwCehgU=/?share_link_id=68786012471
-- Feedback link:
+- Feedback link: https://forms.office.com/e/5dVnSeAeN9
 
 ## Timings:
 
