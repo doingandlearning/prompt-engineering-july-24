@@ -28,7 +28,7 @@
 1. What does this code do? {{ CODE }}
 2. Explain the purpose of this Python function {{ FUNCTION }}
 3. What is the difference between {{ CONCEPT }} and {{ CONCEPT }} in Python?
-4. What does {{ KEYWORD, OPERATOR, ETC }} do in Python?
+4. What does {{ KEYWORD, OPERATOR, ETC, := }} do in Python?
 5. What libraries can do {{ REQUIREMENTS }} for Python?
 6. What language/framework is best for this idea? {{ IDEA }}
 
