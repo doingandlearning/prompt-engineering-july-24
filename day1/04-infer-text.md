@@ -1,3 +1,10 @@
+- What was discussed? What topics? Limit the topics ...
+- Extract key information ...
+- TLDR;
+
+- Create a prompt that saves me having to read the whole article but know what
+  it's about
+
 In a recent survey conducted by the government,
 public sector employees were asked to rate their level
 of satisfaction with the department they work at.
